@@ -1,0 +1,6 @@
+1. (-a | -d) - sort order
+2. (-i | -s) - data type
+3. output file path
+4. input file paths (at least one)
+
+if the order is violated then the app will not work
